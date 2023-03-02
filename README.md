@@ -1,8 +1,8 @@
 # PhiloGPT
 
-# Comment générer un cours de philosophie via ChatGPT :
+## Comment générer un cours de philosophie via ChatGPT :
 
-## Identifier les informations génériques nécéssaires à un cours de philosophie
+### Identifier les informations génériques nécéssaires à un cours de philosophie
 
 - Une perspective parmi celle du programme
 
@@ -22,7 +22,7 @@
 
 - Utiliser et expliquer un repère du programme 
 
-## Le prompt :
+### Le prompt :
 
 ```
 
