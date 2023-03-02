@@ -1,0 +1,11 @@
+- Perspective : "La connaissance"
+Notion : "La raison"
+Auteur : René Descartes
+
+- René Descartes, dans son œuvre majeure "Méditations métaphysiques", a élaboré une pensée sur la raison qui a profondément influencé la philosophie moderne. Pour Descartes, la raison est la faculté qui permet de distinguer le vrai du faux, le bon du mauvais, le réel de l'illusion. Elle est la source de toute connaissance certaine et doit être utilisée pour mener à bien une démarche philosophique rigoureuse. Selon lui, la raison doit être mise en œuvre de façon méthodique, en suivant des règles strictes qui permettent d'atteindre des vérités indubitables.
+
+Dans sa célèbre "méthode cartésienne", Descartes propose de douter systématiquement de toutes les opinions reçues, de ne croire que ce qui est clair et distinct, et de diviser chaque difficulté en autant de parties qu'il est possible. Cette démarche vise à éliminer les préjugés et les illusions pour parvenir à des vérités universelles et certaines. Ainsi, pour Descartes, la raison est le fondement de la philosophie et de la science.
+
+- Une distinction conceptuelle importante à faire en rapport avec la pensée de Descartes sur la raison est celle entre la raison et l'intuition. Si la raison est pour Descartes la source de toute connaissance certaine, il ne faut pas confondre cette faculté avec l'intuition, qui est pour lui une forme de connaissance immédiate mais qui n'est pas toujours fiable. Descartes met en garde contre les erreurs qui peuvent surgir de l'intuition, qui peut être trompeuse, tandis que la raison doit être utilisée avec rigueur pour arriver à des conclusions certaines.
+
+- Un repère du programme de philosophie qui pourrait être pertinent dans ce contexte est celui de "l'universel/général/particulier/singulier". En effet, Descartes cherche à atteindre des vérités universelles et certaines, qui sont valables pour tous les êtres rationnels, et qui ne dépendent ni du temps ni du lieu. Il cherche à élaborer une philosophie qui soit valide pour l'ensemble de l'humanité, en partant de principes rationnels qui sont indépendants de toute culture ou de toute tradition. Ainsi, il met en avant l'importance de la recherche de l'universel dans la démarche philosophique, qui permet de dépasser les particularités et les singularités pour atteindre des vérités générales.
