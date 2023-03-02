@@ -36,10 +36,10 @@ Pour un cours de philosophie au lycée, qui dure environ 55 minutes :
 2. Élaborer la pensée de l'auteur sur la notion, en faisant référence à un livre si possible. Développer et argumenter de façon rigoureuse.
 3. Mobiliser un exemple pertinent.
 4. Proposer une distinction conceptuelle en rapport avec les deux tâches précédentes.
-t. Proposer l'usage pertinent d'un repère du programme de philosophie.
+5. Proposer l'usage pertinent d'un repère du programme de philosophie.
 
 (optionnel)
-5. Proposer un travail sous forme d'exercice qui permet aux élèves de travailler en autonomie parmi la liste suivante :
+6. Proposer un travail sous forme d'exercice qui permet aux élèves de travailler en autonomie parmi la liste suivante :
 - QCM
 - explication de texte
 - rédaction d'un paragraphe argumenté
