@@ -1,0 +1,13 @@
+- Perspective : La connaissance
+Notion : La raison
+Auteur : Gottfried Wilhelm Leibniz
+
+- Gottfried Wilhelm Leibniz était un philosophe, mathématicien et logicien allemand du XVIIe siècle, qui a développé une théorie de la connaissance basée sur la raison. Dans son ouvrage "Nouveaux essais sur l'entendement humain", Leibniz critique la théorie empiriste de John Locke selon laquelle la connaissance est dérivée de l'expérience sensorielle. Au lieu de cela, Leibniz soutient que la raison est la source de la connaissance et qu'il existe des vérités éternelles qui peuvent être découvertes par la raison seule.
+
+Pour Leibniz, la raison est capable de percevoir des vérités universelles et nécessaires, telles que les principes mathématiques, qui sont vraies dans tous les cas sans exception. En outre, la raison peut découvrir des vérités contingentes, c'est-à-dire des vérités qui sont vraies dans certains cas mais pas dans d'autres, comme les faits historiques ou les lois de la nature.
+
+Selon Leibniz, la raison utilise des principes logiques pour déduire de nouvelles vérités à partir de celles qui sont déjà connues. Il a développé une notation mathématique appelée "calcul infinitésimal" qui permet de manipuler des quantités infinitésimales pour résoudre des problèmes mathématiques. Cette méthode a permis à Leibniz de résoudre des problèmes mathématiques complexes et a influencé le développement ultérieur du calcul différentiel et intégral.
+
+- La distinction conceptuelle proposée est celle entre rationalisme et empirisme. Leibniz était un philosophe rationaliste, qui croyait que la raison est la source de la connaissance, alors que John Locke était un philosophe empiriste, qui croyait que la connaissance est dérivée de l'expérience sensorielle. Cette distinction est importante car elle souligne deux approches différentes de la connaissance et de la vérité, qui ont des implications pour d'autres domaines de la philosophie, tels que l'éthique et la politique.
+
+- L'usage pertinent d'un repère du programme de philosophie dans ce contexte est la distinction entre universel et particulier. Selon Leibniz, la raison peut percevoir des vérités universelles qui sont vraies dans tous les cas, tandis que les vérités contingentes sont vraies seulement dans certains cas particuliers. Cette distinction peut être appliquée à d'autres domaines de la philosophie, tels que l'éthique et la politique, où les questions de l'universel et du particulier sont importantes. Par exemple, dans la question de la justice, on peut se demander si les principes de justice sont universels et s'appliquent à tous les individus, ou s'ils sont spécifiques à une culture ou à une période historique particulière.
