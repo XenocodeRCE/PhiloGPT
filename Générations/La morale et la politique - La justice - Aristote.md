@@ -1,0 +1,9 @@
+- Perspective : "La morale et la politique". 
+Notion : "La justice".
+Auteur : "Aristote".
+
+- Aristote a beaucoup écrit sur la justice dans son œuvre Éthique à Nicomaque. Pour Aristote, la justice est une vertu morale qui est à la fois une vertu particulière et une vertu générale. Il y a deux types de justice, la justice distributive et la justice corrective. La justice distributive concerne la distribution des biens et des honneurs dans la société, tandis que la justice corrective concerne les relations entre individus et vise à rétablir l'équilibre entre les parties en cas d'injustice. Aristote affirme que la justice est une vertu qui consiste à donner à chacun ce qui lui est dû, en fonction de ses mérites et de ses besoins. Il considère également que la justice doit être liée à la prudence, qui permet de déterminer la juste mesure dans chaque cas particulier.
+
+- La distinction conceptuelle que l'on peut faire ici est celle entre la justice distributive et la justice corrective. La justice distributive concerne la répartition des biens et des honneurs dans la société, tandis que la justice corrective concerne les relations entre individus et vise à rétablir l'équilibre entre les parties en cas d'injustice. Cette distinction permet de mieux comprendre la pensée d'Aristote sur la justice et de voir comment elle s'applique dans différents contextes.
+
+- L'usage pertinent d'un repère du programme de philosophie pour cette question est la distinction entre le particulier et le général. Aristote affirme que la justice est une vertu qui concerne à la fois le particulier et le général. La justice distributive vise à répartir les biens et les honneurs de manière équitable dans la société dans son ensemble, tandis que la justice corrective vise à rétablir l'équilibre entre deux individus en particulier. Cette distinction permet de mieux comprendre comment la justice peut s'appliquer à différents niveaux de la société et dans différentes situations.
