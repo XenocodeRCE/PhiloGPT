@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="480" height="480" src="https://i.imgur.com/CpjM4fM.png" alt="PhiloGPT">
+    <img width="128" height="128" src="https://i.imgur.com/CpjM4fM.png" alt="PhiloGPT">
     <br>
     <br>
     <br>
