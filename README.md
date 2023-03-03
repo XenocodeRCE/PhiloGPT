@@ -1,6 +1,25 @@
+<p align="center">
+    <img width="480" height="480" src="https://i.imgur.com/CpjM4fM.png" alt="PhiloGPT">
+    <br>
+    <br>
+    <br>
+</p>
+
+<br>
+
 # PhiloGPT
 
+- 💡 Qu'est-ce que c'est ? L'idée est de générer des "fiches" pour les professeurs de philosophie en utilisant ChatGPT.
+
+- ❓ Pourquoi ? Permettre aux collègues d'utiliser de fiches disposant de structure toute faite pour un cours de philosophie.
+
+
 ## Comment générer un cours de philosophie via ChatGPT :
+
+
+<details>
+  <summary>Instructions :</summary>
+  
 
 ### Identifier les informations génériques nécéssaires à un cours de philosophie
 
@@ -71,6 +90,11 @@ Pour un cours de philosophie au lycée, qui dure environ 55 minutes :
 - rédaction d'un paragraphe argumenté
 
 ```
+  
+  
+</details>
+
+
 
 # À faire :
 
