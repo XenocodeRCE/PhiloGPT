@@ -1,0 +1,17 @@
+- Perspective du programme de philosophie et notion choisies :
+Perspective : "L’existence humaine et la culture".
+Notion : "La perception".
+
+Pensée de Maurice Merleau-Ponty sur la perception :
+Maurice Merleau-Ponty, philosophe phénoménologue français du XXe siècle, a profondément réfléchi sur la perception, considérée comme l'une des expériences les plus fondamentales de notre existence humaine. Dans son livre "Phénoménologie de la perception" paru en 1945, il remet en question la conception traditionnelle de la perception comme étant une simple réception passive de sensations. Selon lui, la perception est une activité complexe et créative qui implique une interaction entre notre corps, notre environnement et notre histoire personnelle. Merleau-Ponty défend l'idée que notre corps est inséparable de notre perception et qu'il est même un instrument privilégié de la connaissance du monde. Il écrit : "Notre corps est le monde de manière plus vive que le monde ne peut l'être pour nous".
+
+Ainsi, pour Merleau-Ponty, la perception est toujours incarnée et située, elle est le résultat d'une interaction entre notre corps et l'environnement. Nous ne percevons pas seulement des objets isolés, mais plutôt des situations dans lesquelles nous sommes immergés. Notre perception est influencée par notre histoire personnelle, notre culture, nos croyances et nos émotions. La perception est donc une expérience subjective et intersubjective, qui implique une relation active avec le monde qui nous entoure.
+
+- Exemple pertinent :
+Un exemple pertinent de la conception merleau-pontienne de la perception est l'expérience de la danse. Lorsque nous dansons, nous ne percevons pas seulement les mouvements de notre corps, mais aussi ceux de notre partenaire, de la musique et de l'espace dans lequel nous nous trouvons. Nous sommes immergés dans une situation sociale et culturelle qui affecte notre perception. La danse est une expérience qui met en évidence la nature corporelle et située de notre perception, ainsi que son caractère subjectif et intersubjectif.
+
+- Distinction conceptuelle :
+La distinction conceptuelle que l'on peut proposer en rapport avec la pensée de Merleau-Ponty sur la perception est celle entre "corps propre" et "corps objet". Selon Merleau-Ponty, notre corps n'est pas seulement un objet extérieur que nous pouvons observer, mais il est également notre moyen d'interaction avec le monde. Le corps propre est notre expérience vécue et sentie du corps, tandis que le corps objet est l'objet physique observé par les autres et par nous-mêmes. Cette distinction est importante pour comprendre comment notre perception est liée à notre expérience corporelle et comment elle est influencée par notre histoire personnelle et culturelle.
+
+- Usage pertinent d'un repère du programme de philosophie :
+Un repère du programme de philosophie pertinent pour la pensée de Merleau-Ponty sur la perception est la distinction entre objectif, subjectif et intersubjectif. Merleau-Ponty défend l'idée que la perception est toujours située et corporelle, et qu'elle implique une relation active avec le monde. La perception est donc à la fois subjective (elle dépend de notre histoire personnelle et de notre expérience corporelle et intersubjective (elle est influencée par notre relation aux autres et à la société dans laquelle nous vivons). Selon Merleau-Ponty, la perception est également une manière d'accéder au monde et à sa compréhension, qui ne peut être séparée de la culture et du langage qui façonnent notre manière de percevoir.
