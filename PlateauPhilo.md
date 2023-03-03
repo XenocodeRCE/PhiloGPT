@@ -1,6 +1,6 @@
 # Qu'est ce que c'est ? 
 
-- La fin du projet c'est la création d'une espèce de jeu de plateau avec les élémentsdu B.O. officielde philosophi.
+- La fin du projet c'est la création d'une espèce de jeu de plateau avec les éléments du B.O. officiel de philosophie.
 - Le projet final sera sous forme de site web ou de logiciel (portable sur USB)
 - En attendant je creuse avec ChatGPT...
 
