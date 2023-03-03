@@ -1,0 +1,11 @@
+- Perspective : "L’existence humaine et la culture"
+Notion : "La culture"
+Auteur : Friedrich Nietzsche
+
+Dans son livre "Ainsi parlait Zarathoustra", Nietzsche développe sa pensée sur la culture en affirmant que la culture est un produit de l'homme, mais que l'homme ne doit pas être asservi par la culture. Selon Nietzsche, la culture peut être un moyen de libération de l'homme, mais peut également être une forme de domination sur lui. Il affirme que la culture est un moyen de valoriser la vie humaine, mais que si elle est utilisée pour opprimer ou soumettre les individus, elle perd tout son sens et toute sa valeur. Il encourage les individus à cultiver leur propre individualité et leur propre créativité plutôt que de se laisser guider par les normes culturelles.
+
+- Un exemple pertinent de la pensée de Nietzsche sur la culture est la musique. Il a souvent affirmé que la musique est une forme d'expression artistique qui permet à l'homme de transcender les limites imposées par la culture. Il a également souligné que la musique est une forme d'art qui permet à l'homme de s'exprimer de manière authentique et de cultiver son propre style.
+
+- La distinction conceptuelle en rapport avec la pensée de Nietzsche sur la culture est celle entre la culture comme moyen de libération et la culture comme moyen de domination. Nietzsche soutient que la culture peut être utilisée de ces deux manières, et il encourage les individus à être conscients de ces deux possibilités et à cultiver leur propre individualité plutôt que de se laisser asservir par les normes culturelles.
+
+- L'usage pertinent d'un repère du programme de philosophie en relation avec la pensée de Nietzsche sur la culture est celui d'objectif/subjectif/intersubjectif. Nietzsche souligne que la culture est un produit de l'homme, ce qui implique qu'elle est subjective et peut varier en fonction des individus et des communautés. Cependant, il encourage également les individus à cultiver leur propre individualité, ce qui implique une dimension objective de la culture. Enfin, Nietzsche souligne l'importance de la dimension intersubjective de la culture, qui permet à différents individus et communautés de se connecter et de se comprendre les uns les autres.
