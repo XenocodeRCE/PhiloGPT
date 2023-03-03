@@ -1,0 +1,9 @@
+- La notion choisie est "Le bonheur".
+
+Aristote, dans son ouvrage "Éthique à Nicomaque", développe une pensée sur le bonheur. Selon lui, le bonheur est le but ultime de l'existence humaine. Il définit le bonheur comme l'activité de l'âme conforme à la vertu. Pour Aristote, la vertu n'est pas seulement une qualité morale, mais également une qualité intellectuelle qui permet à l'individu de choisir les actions justes. Le bonheur ne peut être atteint que par une vie vertueuse, ce qui nécessite un équilibre entre les plaisirs et les désirs.
+
+- Un exemple pertinent pour illustrer la pensée d'Aristote sur le bonheur est celui d'un sportif qui se prépare pour les Jeux Olympiques. Son but ultime est de gagner la médaille d'or. Pour y parvenir, il doit s'entraîner régulièrement et suivre une hygiène de vie saine. Il doit également être capable de maîtriser ses émotions et de prendre les décisions justes lors de compétitions. En atteignant son but, le sportif connaîtra un sentiment de satisfaction et de bonheur.
+
+- Une distinction conceptuelle en rapport avec la pensée d'Aristote sur le bonheur est celle entre le bonheur éphémère et le bonheur durable. Le bonheur éphémère est lié aux plaisirs immédiats et éphémères, tels que la consommation de drogues ou la satisfaction des désirs matériels. Le bonheur durable, en revanche, est lié à une vie vertueuse et équilibrée.
+
+- Le repère du programme de philosophie pertinent à utiliser ici est "Impossible/possible". Pour Aristote, le bonheur n'est pas impossible à atteindre, mais il n'est pas non plus facile. Il nécessite un effort constant pour maintenir un équilibre entre les plaisirs et les désirs, et pour développer la vertu. Le bonheur est donc possible, mais il est difficile à atteindre et nécessite une réflexion et un travail constants.
