@@ -1,0 +1,13 @@
+- Perspective choisie : "La morale et la politique".
+Notion choisie : "La conscience".
+Auteur choisi : Émile Durkheim.
+
+Émile Durkheim a abordé la notion de la conscience dans son livre "Les formes élémentaires de la vie religieuse", où il étudie la religion comme une expression de la société. Pour Durkheim, la conscience est une représentation collective, qui découle des valeurs et des croyances partagées au sein d'une société. Il soutient que la conscience individuelle est en réalité une conscience collective, car elle est formée par les idées et les valeurs qui sont communément partagées par les membres d'une communauté.
+
+Selon Durkheim, la conscience est une construction sociale qui est influencée par les institutions et les pratiques sociales. Par exemple, les normes morales qui sont établies par la société influencent la conscience individuelle, car elles sont acceptées et intériorisées par les membres de cette société. De cette manière, la conscience individuelle est le produit de la société dans laquelle elle est développée.
+
+- Un exemple pertinent de cette théorie de la conscience collective peut être observé dans la façon dont les croyances religieuses se sont développées dans différentes sociétés. Dans de nombreuses cultures, les croyances religieuses sont partagées par l'ensemble de la société, et elles influencent la façon dont les membres de cette société voient le monde et agissent dans celui-ci. Les rites et les pratiques religieuses sont souvent utilisés pour renforcer les valeurs morales et les normes de comportement au sein de la communauté.
+
+- La distinction conceptuelle pertinente à cette théorie de la conscience collective est celle entre conscience individuelle et conscience collective. Durkheim soutient que la conscience individuelle est en fait une représentation de la conscience collective, car elle est influencée par les valeurs et les croyances qui sont partagées par l'ensemble de la société. Cette distinction est importante car elle souligne que la conscience individuelle n'est pas un phénomène isolé, mais qu'elle est formée par les normes et les valeurs qui sont acceptées par la société.
+
+- Un repère pertinent pour cette théorie de la conscience collective est "Objectif/subjectif/intersubjectif". Durkheim soutient que la conscience individuelle est en réalité une représentation de la conscience collective, ce qui implique que la conscience individuelle est en partie subjective et en partie objective. La conscience collective est elle-même un phénomène intersubjectif, car elle est partagée par les membres de la société. Ainsi, la notion d'objectif/subjectif/intersubjectif est pertinente pour comprendre la théorie de Durkheim sur la conscience collective.
