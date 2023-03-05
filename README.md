@@ -104,7 +104,7 @@ Pour un cours de philosophie au lycée, qui dure environ 55 minutes :
 <details>
   <summary>Méthode n°3 : creuser les possibilités</summary>
   
-[Cette page](https://lacavernedeplaton.fr/GPT/index.php) séléctionne aléatoirement parmi les listes des combinaisons auteurs/repères etc. pour former un prompt tout fait.
+[Cette page](https://lacavernedeplaton.fr/GPT/index.php) (source : [ici](https://github.com/XenocodeRCE/PhiloGPT/blob/main/g%C3%A9n%C3%A9rer_prompt.php) ) séléctionne aléatoirement parmi les listes des combinaisons auteurs/repères etc. pour former un prompt tout fait.
 
 Exemple : 
   
