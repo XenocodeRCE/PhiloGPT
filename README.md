@@ -1,5 +1,8 @@
+
+
+
 <p align="center">
-    <img width="128" height="128" src="https://i.imgur.com/CpjM4fM.png" alt="PhiloGPT">
+    <img width="128" height="128" src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/null/external-bookshelf-university-flaticons-flat-flat-icons.png" alt="PhiloGPT">
     <br>
     <br>
     <br>
@@ -9,12 +12,21 @@
 
 # PhiloGPT
 
-- 💡 Qu'est-ce que c'est ? L'idée est de générer des "fiches" pour les professeurs de philosophie en utilisant ChatGPT.
+- 💡 Qu'est-ce que c'est ? 
+    - → L'idée est de générer des "fiches" pour les professeurs de philosophie en utilisant ChatGPT.
 
-- ❓ Pourquoi ? Permettre aux collègues d'utiliser de fiches disposant de structure toute faite pour un cours de philosophie.
+- ❓ Pourquoi ? 
+    - → Permettre aux collègues d'utiliser de fiches disposant de structure toute faite pour un cours de philosophie.
 
+---
 
-## Comment générer un cours de philosophie via ChatGPT :
+<p align="left">
+    <img width="128" height="128" src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/null/external-lecturer-university-flaticons-flat-flat-icons-2.png" alt="PhiloGPT">
+    <br>
+    <br>
+</p>
+
+# Comment générer un cours de philosophie via ChatGPT :
 
 
 <details>
